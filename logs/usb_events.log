@@ -1,0 +1,17 @@
+[2025-12-16 13:01:46] USB monitoring started
+[2025-12-16 13:02:44] USB Connected | Device: Mass Storage Device USB Device | PNPID: USBSTOR\DISK&VEN_MASS&PROD_STORAGE_DEVICE&REV_1.00\121220160204&0
+[2025-12-16 13:08:50] USB monitoring started
+[2025-12-16 13:08:57] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE
+[2025-12-16 13:09:01] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE
+[2025-12-16 13:17:14] USB monitoring started
+[2025-12-16 13:17:21] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:17:26] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | status: ALLOWED
+[2025-12-16 13:23:45] USB monitoring started
+[2025-12-16 13:23:56] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:28:57] USB monitoring started
+[2025-12-16 13:29:24] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:29:45] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:44:03] USB monitoring started
+[2025-12-16 13:44:15] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:45:15] USB Disconnected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED
+[2025-12-16 13:46:50] USB Connected | Device: Mass Storage Device USB Device | VID: MASS | PID: STORAGE_DEVICE | Status: ALLOWED

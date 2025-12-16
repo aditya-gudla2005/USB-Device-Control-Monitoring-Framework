@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>USB File Activity</h2>
+{% for log in logs %}
+<div class="log">{{ log }}</div>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="2">
+    <title>USB Security Dashboard</title>
+    <style>
+        body { font-family: Arial; background: #0f172a; color: #e5e7eb; }
+        nav { padding: 15px; background: #020617; }
+        nav a { color: #38bdf8; margin-right: 20px; text-decoration: none; }
+        .container { padding: 20px; }
+        .log { background: #020617; padding: 10px; margin-bottom: 8px; border-radius: 6px; }
+    </style>
+</head>
+<body>
+<nav>
+    <a href="/">Dashboard</a>
+    <a href="/usb">USB Events</a>
+    <a href="/files">File Activity</a>
+</nav>
+<div class="container">
+    {% block content %}{% endblock %}
+</div>
+</body>
+</html>
